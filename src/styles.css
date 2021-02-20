@@ -165,8 +165,12 @@ h3 {
 }
 
 .github-line {
-  font-size: 14pt;
+  font-size: 12pt;
   padding: 40px 0 0 0;
+}
+
+.github-line a {
+  text-decoration: none;
 }
 
 .headerlink {
