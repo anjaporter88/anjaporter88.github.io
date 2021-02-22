@@ -4,7 +4,7 @@ a {
 }
 
 a:hover {
-  color: #f59b78;
+  color: #f59b78 !important;
   text-decoration: none;
 }
 
