@@ -200,6 +200,10 @@ p {
   text-align: center;
 }
 
+.i-do a {
+  color: #f59b78 !important;
+}
+
 .name {
   font-size: 20pt;
 }
